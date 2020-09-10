@@ -1,0 +1,44 @@
+.App{
+  background-image: url("background.png");
+  text-align: center;
+  min-height:605px;
+  min-width: 100px;
+  background-size: cover;
+}
+.count{
+  margin-top: 0%;
+  padding-top: 130px;
+  font-size: 150px;
+  color:#000;
+}
+.minus{
+  height: 50px;
+  width: 80px;
+  padding: 0 20px;
+  margin-left: 20px ;
+  border-radius: 10px;
+  font-size: 18px;
+  box-shadow: 3px 3px rgb(150, 149, 149);
+}
+button:focus{
+  outline: none;
+}
+.plus{
+  height: 50px;
+  width: 80px;
+  padding: 0 20px;
+  margin-left: 100px;
+  border-radius: 10px;
+  font-size: 18px;
+  box-shadow: 3px 3px rgb(150, 149, 149);
+}
+.reset{
+  height: 50px;
+  width: 80px;
+  padding: 0 20px;
+  margin-left: 20px ;
+  margin-right: 100px;
+  border-radius: 10px;
+  font-size: 18px;
+  box-shadow: 3px 3px rgb(150, 149, 149);
+}
